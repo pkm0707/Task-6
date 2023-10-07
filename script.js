@@ -45,4 +45,3 @@ console.log(uberprice_4)
 console.log(uberprice_5)
 console.log(uberprice_6)
 //---------------------------------------------------------------------------------------------------------------------------------------------
-// write a class to calculate the uber price (2)
